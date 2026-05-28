@@ -5,6 +5,8 @@ category: conferences
 permalink: /publication/2025-region-aware-prompt-learning
 date: 2025-12-01
 venue: "Advances in Neural Information Processing Systems (NeurIPS)"
+link: "https://arxiv.org/abs/2510.25094"
+codeurl: "https://github.com/mlvlab/VDRP"
 authors: "Chanhyeong Yang, Taehoon Song, <strong>Jihwan Park</strong>, Hyunwoo J. Kim"
 citation: "Chanhyeong Yang, Taehoon Song, Jihwan Park, Hyunwoo J. Kim. &quot;Visual Diversity and Region-aware Prompt Learning for Zero-shot HOI Detection.&quot; <i>NeurIPS</i>, 2025."
 ---

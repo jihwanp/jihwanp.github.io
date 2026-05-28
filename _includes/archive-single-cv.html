@@ -32,6 +32,9 @@
       {% else %}
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
+      {% if post.codeurl %}
+        <a href="{{ post.codeurl }}" class="btn btn--inverse btn--small" style="margin-left: .5em; padding: .12em .5em; font-size: .6em; vertical-align: middle;">Code</a>
+      {% endif %}
     </h3>
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>

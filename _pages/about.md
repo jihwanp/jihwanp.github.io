@@ -9,16 +9,16 @@ redirect_from:
 
 Hi, I am **Jihwan Park**, a Postdoctoral Researcher at [KAIST](https://www.kaist.ac.kr/) supervised by Prof. [Hyunwoo J. Kim](https://mlv.kaist.ac.kr/). I received my Ph.D. and B.S. in Computer Science from [Korea University](https://www.korea.edu/).
 
-My research centers on dense prediction for real-world vision systems, including object detection and human-object interaction detection, with an emphasis on efficient and transferable training for practical deployment. More recently, I have also been interested in vision-language-action models, particularly how perception, language understanding, and action generation can be integrated to build generalizable embodied AI systems.
+My primary research centers on structured visual recognition—object detection and human-object interaction detection—with an emphasis on efficient and transferable learning for practical deployment, spanning weakly-supervised, zero-shot, and model-agnostic settings.
+Recently, I have been interested in model merging as a way to combine specialized models into a single generalist one without costly retraining, and in vision-language-action (VLA) models, where perception, language understanding, and action generation are integrated to build generalizable embodied AI systems.
 
 Currently, my research interests include:
 
 * Dense prediction for real-world vision systems
-* Human-object interaction detection
 * Efficient and transferable model training
 * Vision-language-action models and embodied AI
 
-Here is my [CV](/files/jihwan-park-cv.pdf). Please feel free to reach out at jseven7071[AT]kaist.ac.kr.
+I am currently exploring next-position opportunities in academia and industry. Please feel free to reach out at jseven7071[AT]kaist.ac.kr.
 
 ## Education
 
@@ -54,16 +54,19 @@ Here is my [CV](/files/jihwan-park-cv.pdf). Please feel free to reach out at jse
 
 ## Selected Publications
 
-* **[CVPR 2026] RegFormer: Transferable Relational Grounding for Efficient Weakly-Supervised Human-Object Interaction Detection**  
+* **[CVPR 2026] [RegFormer: Transferable Relational Grounding for Efficient Weakly-Supervised Human-Object Interaction Detection](https://arxiv.org/abs/2604.00507)** <a href="https://github.com/mlvlab/RegFormer" class="btn btn--inverse btn--small" style="margin-left: .4em; padding: .12em .5em; font-size: .65em;">Code</a>  
   **Jihwan Park**, Chanhyeong Yang, Jinyoung Park, Taehoon Song, Hyunwoo J. Kim
 
-* **[AAAI 2026 Oral] Transferable Model-agnostic Vision-Language Model Adaptation for Efficient Weak-to-Strong Generalization**  
+* **[AAAI 2026 Oral] [Transferable Model-agnostic Vision-Language Model Adaptation for Efficient Weak-to-Strong Generalization](https://arxiv.org/abs/2508.08604)** <a href="https://github.com/mlvlab/TransMiter" class="btn btn--inverse btn--small" style="margin-left: .4em; padding: .12em .5em; font-size: .65em;">Code</a>  
   **Jihwan Park**, Taehoon Song, Sanghyeok Lee, Miso Choi, Hyunwoo J. Kim
 
-* **[CVPR 2024] Groupwise Query Specialization and Quality-aware Multi-assignment for Transformer-based Visual Relationship Detection**  
-  Jongha Kim*, <strong>Jihwan Park</strong>*, Jinyoung Park*, Jinyoung Kim, Sehyung Kim, Hyunwoo J. Kim
+* **[NeurIPS 2025] [Visual Diversity and Region-aware Prompt Learning for Zero-shot HOI Detection](https://arxiv.org/abs/2510.25094)** <a href="https://github.com/mlvlab/VDRP" class="btn btn--inverse btn--small" style="margin-left: .4em; padding: .12em .5em; font-size: .65em;">Code</a>  
+  Chanhyeong Yang, Taehoon Song, **Jihwan Park**, Hyunwoo J. Kim
 
-* **[CVPR 2022] Consistency Learning via Decoding Path Augmentation for Transformers in Human Object Interaction Detection**  
+* **[CVPR 2024] [Groupwise Query Specialization and Quality-aware Multi-assignment for Transformer-based Visual Relationship Detection](https://arxiv.org/abs/2403.17709)** <a href="https://github.com/mlvlab/speaq" class="btn btn--inverse btn--small" style="margin-left: .4em; padding: .12em .5em; font-size: .65em;">Code</a>  
+  Jongha Kim*, **Jihwan Park**\*, Jinyoung Park\*, Jinyoung Kim, Sehyung Kim, Hyunwoo J. Kim
+
+* **[CVPR 2022] [Consistency Learning via Decoding Path Augmentation for Transformers in Human Object Interaction Detection](https://openaccess.thecvf.com/content/CVPR2022/html/Park_Consistency_Learning_via_Decoding_Path_Augmentation_for_Transformers_in_Human_CVPR_2022_paper.html)** <a href="https://github.com/mlvlab/CPC_HOI" class="btn btn--inverse btn--small" style="margin-left: .4em; padding: .12em .5em; font-size: .65em;">Code</a>  
   **Jihwan Park**, SeungJun Lee, Hwan Heo, Hyeong Kyu Choi, Hyunwoo J. Kim
 
 See the [Publications](/publications/) page for the full list.

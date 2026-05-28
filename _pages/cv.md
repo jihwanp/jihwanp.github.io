@@ -7,58 +7,54 @@ redirect_from:
   - /resume
 ---
 
+The latest PDF version is available here: [Download CV](/files/jihwan-park-cv.pdf).
+
+## Research Interests
+
+Dense prediction for real-world vision systems, object detection, human-object interaction detection, efficient and transferable training, vision-language-action models, and embodied AI.
+
+## Appointment
+
+* **Postdoctoral Researcher**, KAIST  
+  March 2026 - Present  
+  Daejeon, South Korea  
+  Supervised by Hyunwoo J. Kim
+
+* **Research Assistant**, Korea University  
+  September 2022 - June 2023  
+  Seoul, South Korea
+
+* **Research Intern**, Kakao Brain  
+  December 2021 - June 2022  
+  Pangyo, South Korea  
+  Supervised by Byungseok Roh
+
+## Education
+
+* **Ph.D. student in Computer Science**, Korea University  
+  March 2021 - February 2026  
+  Supervised by Prof. Hyunwoo J. Kim
+
+* **Bachelor's degree in Computer Science**, Korea University  
+  March 2017 - February 2021
+
+## Publications
+
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+<ul>
+{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}
+</ul>
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Professional Services
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Reviewer, European Conference on Computer Vision (ECCV), 2026
+* Reviewer, AAAI Conference on Artificial Intelligence (AAAI), 2025, 2026
+* Reviewer, Conference on Computer Vision and Pattern Recognition (CVPR), 2024, 2025, 2026
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Tutorials
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* KCCV 2023 Tutorial - Consistency Learning via Decoding Path Augmentation for Transformers in Human Object Interaction Detection
+* KCCV 2022 Tutorial - End-to-End Human-Object Interaction Detection with Transformers

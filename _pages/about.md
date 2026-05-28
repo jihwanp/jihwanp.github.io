@@ -55,15 +55,15 @@ Here is my [CV](/files/jihwan-park-cv.pdf). Please feel free to reach out at jse
 ## Selected Publications
 
 * **[CVPR 2026] RegFormer: Transferable Relational Grounding for Efficient Weakly-Supervised Human-Object Interaction Detection**  
-  Jihwan Park, Chanhyeong Yang, Jinyoung Park, Taehoon Song, Hyunwoo J. Kim
+  **Jihwan Park**, Chanhyeong Yang, Jinyoung Park, Taehoon Song, Hyunwoo J. Kim
 
 * **[AAAI 2026 Oral] Transferable Model-agnostic Vision-Language Model Adaptation for Efficient Weak-to-Strong Generalization**  
-  Jihwan Park, Taehoon Song, Sanghyeok Lee, Miso Choi, Hyunwoo J. Kim
-
-* **[NeurIPS 2025] Visual Diversity and Region-aware Prompt Learning for Zero-shot HOI Detection**  
-  Chanhyeong Yang, Taehoon Song, Jihwan Park, Hyunwoo J. Kim
+  **Jihwan Park**, Taehoon Song, Sanghyeok Lee, Miso Choi, Hyunwoo J. Kim
 
 * **[CVPR 2024] Groupwise Query Specialization and Quality-aware Multi-assignment for Transformer-based Visual Relationship Detection**  
-  Jongha Kim*, Jihwan Park*, Jinyoung Park*, Jinyoung Kim, Sehyung Kim, Hyunwoo J. Kim
+  Jongha Kim*, <strong>Jihwan Park</strong>*, Jinyoung Park*, Jinyoung Kim, Sehyung Kim, Hyunwoo J. Kim
+
+* **[CVPR 2022] Consistency Learning via Decoding Path Augmentation for Transformers in Human Object Interaction Detection**  
+  **Jihwan Park**, SeungJun Lee, Hwan Heo, Hyeong Kyu Choi, Hyunwoo J. Kim
 
 See the [Publications](/publications/) page for the full list.

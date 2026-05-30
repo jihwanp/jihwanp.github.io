@@ -9,13 +9,13 @@ redirect_from:
 
 Hi, I am **Jihwan Park**, a Postdoctoral Researcher at [KAIST](https://www.kaist.ac.kr/) supervised by Prof. [Hyunwoo J. Kim](https://mlv.kaist.ac.kr/). I received my Ph.D. and B.S. in Computer Science from [Korea University](https://www.korea.edu/).
 
-My primary research centers on structured visual recognition—object detection and human-object interaction detection—with an emphasis on efficient and transferable learning for practical deployment, spanning weakly-supervised, zero-shot, and model-agnostic settings.
+My primary research centers on dense visual prediction—object detection and human-object interaction detection—with an emphasis on efficient and transferable learning for practical deployment, spanning weakly-supervised, zero-shot, and model-agnostic settings.
 Recently, I have been interested in model merging as a way to combine specialized models into a single generalist one without costly retraining, and in vision-language-action (VLA) models, where perception, language understanding, and action generation are integrated to build generalizable embodied AI systems.
 
 Currently, my research interests include:
 
 * Dense prediction for real-world vision systems
-* Efficient and transferable model training
+* Efficient and transferable adaptation on foundation model
 * Vision-language-action models and embodied AI
 
 I am currently exploring next-position opportunities in academia and industry. Please feel free to reach out at jseven7071[AT]kaist.ac.kr.
@@ -47,10 +47,11 @@ I am currently exploring next-position opportunities in academia and industry. P
 
 ## News
 
-* **2026** Two papers have been accepted to CVPR 2026 and AAAI 2026.
-* **2025** Our paper on visual diversity and region-aware prompt learning has been accepted to NeurIPS 2025.
-* **2024** Our paper on transformer-based visual relationship detection has been accepted to CVPR 2024.
-* **2023** Our paper on open-vocabulary video question answering has been accepted to ICCV 2023.
+**2026**
+
+* **May** <span style="font-weight: 600; color: #2f6f6d;">New preprint</span>: [Mitigating State Aliasing in Vision-Language-Action Models via Inverse Dynamics Learning](https://arxiv.org/abs/2605.29577) is now available on arXiv.
+* **March** [RegFormer](https://arxiv.org/abs/2604.00507) has been accepted to CVPR 2026.
+* **January** [TransMiter](https://arxiv.org/abs/2508.08604) will be presented as an oral at AAAI 2026.
 
 ## Selected Publications
 

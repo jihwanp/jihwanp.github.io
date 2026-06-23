@@ -50,8 +50,10 @@ Dense prediction for real-world vision systems, object detection, human-object i
 
 ## Professional Services
 
+* Reviewer, The British Machine Vision Conference (BMVC), 2026
 * Reviewer, European Conference on Computer Vision (ECCV), 2026
-* Reviewer, AAAI Conference on Artificial Intelligence (AAAI), 2025, 2026
+* Reviewer, AAAI Conference on Artificial Intelligence (AAAI), 2025, 2026, 2027
+* Reviewer, Conference on Neural Information Processing Systems (NeurIPS), 2026
 * Reviewer, Conference on Computer Vision and Pattern Recognition (CVPR), 2024, 2025, 2026
 
 ## Tutorials

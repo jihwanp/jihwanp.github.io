@@ -1,4 +1,30 @@
 # Academic Pages
+
+## 이 홈페이지 로컬 미리보기
+
+GitHub에 push하지 않아도 변경한 사이트를 바로 확인할 수 있습니다.
+
+```bash
+npm run preview
+```
+
+브라우저에서 <http://localhost:4000>을 열면 됩니다. Markdown, HTML, SCSS를
+저장하면 자동으로 재빌드되고 브라우저가 새로고침됩니다. `_config.yml`을
+수정한 경우에는 서버를 중지하고 다시 실행하세요. 종료는 `Ctrl+C`입니다.
+
+최초 설치가 필요한 macOS 컴퓨터에서는 호환되는 Ruby를 먼저 준비하세요:
+
+```bash
+brew install ruby@3.3
+export PATH="/opt/homebrew/opt/ruby@3.3/bin:$PATH"
+bundle config set --local path vendor/bundle
+bundle install
+```
+
+Intel Mac의 Ruby 경로는 `/usr/local/opt/ruby@3.3/bin`입니다.
+미리보기 스크립트는 이 경로를 자동으로 감지합니다.
+`_config_local.yml`은 로컬 미리보기에만 사용되어 메뉴 링크도 로컬에 유지됩니다.
+
 **Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
 
 ![Academic Pages template example](images/themes/homepage-light.png "Academic Pages template example")

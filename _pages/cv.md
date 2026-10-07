@@ -50,6 +50,8 @@ Dense prediction for real-world vision systems, object detection, human-object i
 
 ## Professional Services
 
+* Reviewer, International Conference on Learning Representations (ICLR), 2027
+
 * Reviewer, The British Machine Vision Conference (BMVC), 2026
 * Reviewer, European Conference on Computer Vision (ECCV), 2026
 * Reviewer, AAAI Conference on Artificial Intelligence (AAAI), 2025, 2026, 2027

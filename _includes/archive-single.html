@@ -37,6 +37,10 @@
       {% endif %}
     </h2>
     
+    {% if post.award %}
+      <p><span class="award-badge"><span aria-hidden="true">★</span> {{ post.award }}</span></p>
+    {% endif %}
+
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}

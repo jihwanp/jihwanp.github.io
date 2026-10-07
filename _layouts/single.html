@@ -45,6 +45,9 @@ layout: default
       {% endunless %}
 
       <section class="page__content" itemprop="text">
+        {% if page.award %}
+          <p><span class="award-badge"><span aria-hidden="true">★</span> {{ page.award }}</span></p>
+        {% endif %}
         {{ content }}
 
         {% if page.citation and page.paperurl and page.slidesurl and page.bibtexurl %}

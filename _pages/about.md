@@ -7,23 +7,24 @@ redirect_from:
   - /about.html
 ---
 
-<div class="intro-label">COMPUTER VISION · EFFICIENT LEARNING · EMBODIED AI</div>
+<div class="intro-label">EFFICIENT COMPUTER VISION · AGENT SKILLS &amp; HARNESSES · EMBODIED AI</div>
 
 Hi, I am **Jihwan Park**, a Postdoctoral Researcher at [KAIST](https://www.kaist.ac.kr/) supervised by Prof. [Hyunwoo J. Kim](https://mlv.kaist.ac.kr/). I received my Ph.D. and B.S. in Computer Science from [Korea University](https://www.korea.edu/).
 
-My primary research centers on dense visual prediction—object detection and human-object interaction detection—with an emphasis on efficient and transferable learning for practical deployment, spanning weakly-supervised, zero-shot, and model-agnostic settings.
-Recently, I have been interested in model merging as a way to combine specialized models into a single generalist one without costly retraining, and in vision-language-action (VLA) models, where perception, language understanding, and action generation are integrated to build generalizable embodied AI systems.
+My primary research focuses on data- and training-efficient learning for computer vision, particularly object detection and human-object interaction detection—with an emphasis on efficient and transferable learning for practical deployment, spanning weakly-supervised, zero-shot, and model-agnostic settings.
+
+My current research focuses on **agent skills and harnesses**, and their application to **embodied AI**, particularly **robotic manipulation**. I am interested in how reusable skills and the systems that support their execution can help build more capable and generalizable embodied agents.
 
 Currently, my research interests include:
 
 <ul class="research-topics">
-  <li>Dense visual prediction</li>
-  <li>Efficient &amp; transferable learning</li>
-  <li>Vision-language-action &amp; embodied AI</li>
+  <li>Data- and training-efficient computer vision</li>
+  <li>Agent skills and harnesses</li>
+  <li>Embodied AI and robotic manipulation</li>
 </ul>
 
 <div class="contact-note" markdown="1">
-I am currently exploring next-position opportunities in academia and industry. Please feel free to [get in touch](mailto:jseven7071@kaist.ac.kr).
+I am currently exploring next-position opportunities. Please feel free to [get in touch](mailto:jseven7071@kaist.ac.kr).
 </div>
 
 ## News

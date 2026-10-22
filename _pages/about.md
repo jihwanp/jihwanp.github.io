@@ -34,7 +34,8 @@ I am currently exploring next-position opportunities in academia and industry. P
 
 **2026**
 
-* **September** <span style="font-weight: 600; color: #2f6f6d;">New preprint</span>: [Retrieval-Augmented Skill Optimization via Cross-Harness Adaptation](https://arxiv.org/abs/2609.38024) is now available on arXiv.
+* **October** <span style="font-weight: 600; color: #2f6f6d;">New preprint (3D Reconstruction)</span>: [RLSplat: Resource-Linear Budget Control for Feed-forward 3D Gaussian Splatting](https://arxiv.org/abs/2610.27712v1) is now available on arXiv.
+* **September** <span style="font-weight: 600; color: #2f6f6d;">New preprint (Agent Skills)</span>: [Retrieval-Augmented Skill Optimization via Cross-Harness Adaptation](https://arxiv.org/abs/2609.38024) is now available on arXiv.
 * **May** <span style="font-weight: 600; color: #2f6f6d;">New preprint</span>: [Mitigating State Aliasing in Vision-Language-Action Models via Inverse Dynamics Learning](https://arxiv.org/abs/2605.29577) is now available on arXiv.
 * **March** [RegFormer](https://arxiv.org/abs/2604.00507) has been accepted to CVPR 2026.
 * **January** [TransMiter](https://arxiv.org/abs/2508.08604) will be presented as an oral at AAAI 2026.
